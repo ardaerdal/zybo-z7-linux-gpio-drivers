@@ -1,0 +1,22 @@
+# Compiled objects
+*.o
+*.ko
+
+# Kernel module build files
+*.mod
+*.mod.c
+*.mod.o
+*.cmd
+Module.symvers
+modules.order
+
+# Temporary kernel build directories
+.tmp_versions/
+
+# Editor files
+*~
+*.swp
+*.swo
+
+# Misc
+.DS_Store
